@@ -1,1 +1,1 @@
-*C ÖRNEKLERİ*
+C ÖRNEKLERİ
